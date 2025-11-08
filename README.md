@@ -2,6 +2,8 @@
 
 A beautiful, interactive water distortion effect built with Next.js, TypeScript, and WebGL. This project creates a mesmerizing liquid distortion animation that responds to user interaction.
 
+# Check it live on [Liquid Distortion Effect](https://liquid-distortion-effect-pi.vercel.app/)
+
 ## 🎥 Demo
 
 ![Liquid Distortion Effect Demo](https://github.com/Tejas-Bansod/liquid-distortion-effect/blob/main/public/liquid.gif?raw=true)
