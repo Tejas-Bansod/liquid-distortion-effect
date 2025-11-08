@@ -4,7 +4,7 @@ A beautiful, interactive water distortion effect built with Next.js, TypeScript,
 
 ## 🎥 Demo
 
-![Liquid Distortion Effect Demo](/liquid.gif)
+![Liquid Distortion Effect Demo](https://github.com/Tejas-Bansod/liquid-distortion-effect/blob/main/public/liquid.gif?raw=true)
 
 *Interactive water distortion effect in action*
 
